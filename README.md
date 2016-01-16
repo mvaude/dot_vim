@@ -1,4 +1,4 @@
-Roblabla's vimrc
+Mvaude's vimrc
 =================
 
 Those are my sweet vim configuration scripts, made with lots of love and
@@ -11,7 +11,7 @@ quite a lot.
 ## Installation
 
 ```shell
-git clone --recursive https://github.com/roblabla/dot_vim $HOME/.vim
+git clone --recursive https://github.com/mvaude/dot_vim $HOME/.vim
 ln -s .vim/vimrc .vimrc
 vim +PluginInstall
 ```
