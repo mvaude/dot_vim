@@ -111,8 +111,8 @@ let g:neomake_warning_sign = {
             \ }
 
 " stdheader
-let g:stdheader_user = "roblabla"
-let g:stdheader_mail = "rlambert@student.42.fr"
+let g:stdheader_user = "mvaude"
+let g:stdheader_mail = "mvaude@student.42.fr"
 
 " multicursors
 let g:multi_cursor_exit_from_insert_mode = 0
