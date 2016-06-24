@@ -42,14 +42,16 @@ Plugin 'LnL7/vim-nix'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'elzr/vim-json'
 Plugin 'othree/yajs'
+" Necessary for correct indent in jsx. Goes AFTER yajs, so yajs
+" syntax overrides vim-javascript's.
+Plugin 'pangloss/vim-javascript'
 Plugin 'digitaltoad/vim-jade'
 Plugin 'mustache/vim-mustache-handlebars'
 Plugin 'wting/rust.vim'
-Plugin 'othree/yajs.vim'
 Plugin 'octol/vim-cpp-enhanced-highlight'
 Plugin 'othree/html5.vim'
 Plugin 'peterhoeg/vim-qml'
-
+Plugin 'mxw/vim-jsx'
 
 Plugin 'def-lkb/vimbufsync' " merlin dep
 Plugin 'the-lambda-church/merlin', { 'rtp': 'vim/merlin' } " TODO : Figure out how to
