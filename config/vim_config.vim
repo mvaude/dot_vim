@@ -3,10 +3,10 @@
 "                                                         :::      ::::::::    "
 "    vim_config.vim                                     :+:      :+:    :+:    "
 "                                                     +:+ +:+         +:+      "
-"    By: roblabla </var/spool/mail/roblabla>        +#+  +:+       +#+         "
+"    By: mvaude <maxime.vaude@gmail.com>            +#+  +:+       +#+         "
 "                                                 +#+#+#+#+#+   +#+            "
 "    Created: 2015/06/12 16:53:14 by roblabla          #+#    #+#              "
-"    Updated: 2015/12/04 13:54:32 by roblabla         ###   ########.fr        "
+"    Updated: 2016/02/24 15:42:32 by maxime           ###   ########.fr        "
 "                                                                              "
 " **************************************************************************** "
 
